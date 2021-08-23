@@ -1,6 +1,7 @@
 # Tic-Tac-Toe
 
 An interactive tic-tac-toe game with React.
+Tutorial: `https://reactjs.org/tutorial/tutorial.html#adding-time-travel`
 
 ## :heavy_check_mark: Prerequisites
 
