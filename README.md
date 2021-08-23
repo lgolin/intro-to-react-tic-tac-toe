@@ -3,7 +3,7 @@
 An interactive tic-tac-toe game with React.<br>
 
 ## Tutorial: Intro to React
-- [Tutorial](https://reactjs.org/tutorial/tutorial.html#adding-time-travel)
+- Check the tutorial [here](https://reactjs.org/tutorial/tutorial.html#adding-time-travel)
 
 ## :heavy_check_mark: Prerequisites
 
